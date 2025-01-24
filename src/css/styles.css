@@ -515,7 +515,7 @@ nav{
 
 }
 
-@media(max-width: 714px){
+@media(max-width: 717px){
 
     .nome {
         display: none; /* Remove o texto original completamente */
