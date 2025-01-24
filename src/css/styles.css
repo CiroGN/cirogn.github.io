@@ -121,7 +121,7 @@ nav{
     align-items: center;
     z-index: 1000;
     transition: .3s;
-    background: #fff;
+    background-color: #fff;
     top: 0;
     flex-wrap: wrap;
 }
