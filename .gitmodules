@@ -1,0 +1,3 @@
+[submodule "E-Letronic"]
+    path = E-Letronic
+    url = https://github.com/cirogn/E-Letronic.git
