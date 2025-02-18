@@ -10,5 +10,5 @@ link de acesso Jogo da Velha:
 link de acesso Doceria:
 <link>https://cirogn.github.io/Doceria/src</link>
 
-\nlink de acesso Clone do Google:
+link de acesso Clone do Google:
 <link>https://cirogn.github.io/CloneGoogle/src</link>
